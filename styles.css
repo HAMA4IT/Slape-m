@@ -1,0 +1,12 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+#character {
+    width: 200px;
+    cursor: pointer;
+}
+#slap-count {
+    font-size: 24px;
+    margin-top: 20px;
+}
